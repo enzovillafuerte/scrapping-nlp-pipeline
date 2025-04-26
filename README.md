@@ -84,9 +84,3 @@ Each CSV contains:
    - Verify the channel ID format (should include -100 prefix for channels)
    - Ensure you're a member of the channel
    - Check if the channel is private/restricted
-
-## License
-[Your chosen license]
-
-## Contributing
-[Your contribution guidelines if applicable]
