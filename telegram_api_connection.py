@@ -37,7 +37,7 @@ async def main():
     try:
 
         # Once identified the target group name and ID
-        channel_id = -1001894858568  # Make sure this matches your channel exactly
+        channel_id = -1001894858568  
         
         print(f'\nAttempting to access channel with ID: {channel_id}')
         
